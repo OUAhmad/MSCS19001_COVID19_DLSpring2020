@@ -1,9 +1,7 @@
 
 Following are the links to download different models:
 
-#VGG16:
-
->FC Model: [VGG16_FC_Only](https://drive.google.com/file/d/1vHyXIRindCMnbc8k5GTdW8jehtLSzXiB/view?usp=sharing/)
+>FC Model: [VGG16_FC_Only](https://drive.google.com/file/d/1vHyXIRindCMnbc8k5GTdW8jehtLSzXiB/view?usp=sharing/).
 >Entire Model: [VGG16_entire](https://drive.google.com/file/d/1oLc9s9cg-xpZSaB0aut3UPb5U39vyyuh/view?usp=sharing/).
 
 #RESNET18:
