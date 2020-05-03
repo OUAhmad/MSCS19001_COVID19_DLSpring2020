@@ -27,5 +27,6 @@
 |----------|----------------------|--------|---------------|-----------------------|-------------------------|
 | VGG16    | BCE With Logits Loss | 15     | =1hr 10min    | 92/92                 | 93/93                   |
 | VGG16    | Focal Loss           | 25     | =2hr 30 min   | 83/84                 | 89/90                   |
-| RESNET18 | BCE With Logits Loss | 11     | =50min        | 92/91                 | 94/94                   |
-| RESNET18 | Focal Loss           | 20     | =1hr 40min    | 87/87                 | 90/90                   |
+| RESNET18 | BCE With Logits Loss | 20     | =2 hours      | 92/91                 | 94/94                   |
+| RESNET18 | Focal Loss           | 22     | =3 hours      | 87/87                 | 90/90                   |
+
