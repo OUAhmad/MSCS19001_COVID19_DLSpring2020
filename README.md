@@ -15,3 +15,8 @@
 | VGG16    | None                 | 11     | =1hr 40min    | 91/0.934              | 91/0.928                | 97/0.975              |
 | RESNET18 | All Layers except FC | 15     | =1hr          | 83/0.855              | 79/0.811                | 86/0.875              |
 | RESNET18 | None                 | 20     | =1hr 40min    | 88/0.911              | 91/0.927                | 96/0.970              |
+
+## covid19 Classification using Focal Loss
+
+[Dataset](https://drive.google.com/open?id=1kGnCJ8AFKgMoxhN1G3yFHXdFLWAbgY5K)
+
