@@ -22,6 +22,9 @@
 [Dataset Zip file](https://drive.google.com/open?id=1kGnCJ8AFKgMoxhN1G3yFHXdFLWAbgY5K)
 
 ### Results:
+#### For Focal Loss
+alpha = 0.25
+gamma = 2
 
 | Backbone | Loss Function| Epochs | Training Time | Training Set Accuracy/F1 Score | Validation Set Accuracy/F1 Score |
 |----------|----------------------|--------|---------------|-----------------------|-------------------------|
